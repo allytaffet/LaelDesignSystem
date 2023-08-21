@@ -1,0 +1,22 @@
+/* Text styles */
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Additional styles for text emphasis */
+em {
+    font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
+
+/* Additional styles for blockquotes */
+blockquote {
+    border-left: 5px solid var(--accent-color);
+    padding-left: 10px;
+    margin: 10px 0;
+}
